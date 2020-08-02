@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my two startup
+- 🔭 I’m currently working on my upcoming startup!
 - 🌱 I’m currently learning everything!
 - 👯 I’m looking to collaborate on open source software
 - 💬 Ask me about web development
